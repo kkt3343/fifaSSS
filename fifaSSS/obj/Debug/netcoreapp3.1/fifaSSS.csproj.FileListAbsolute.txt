@@ -1,0 +1,15 @@
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\bin\Debug\netcoreapp3.1\fifaSSS.exe
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\bin\Debug\netcoreapp3.1\fifaSSS.deps.json
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\bin\Debug\netcoreapp3.1\fifaSSS.runtimeconfig.json
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\bin\Debug\netcoreapp3.1\fifaSSS.runtimeconfig.dev.json
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\bin\Debug\netcoreapp3.1\fifaSSS.dll
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\bin\Debug\netcoreapp3.1\fifaSSS.pdb
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.Form1.resources
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.csproj.GenerateResource.cache
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.AssemblyInfoInputs.cache
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.AssemblyInfo.cs
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.csproj.CoreCompileInputs.cache
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.dll
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.pdb
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.genruntimeconfig.cache
+C:\Users\KT\source\repos\fifaSSS\fifaSSS\obj\Debug\netcoreapp3.1\fifaSSS.csprojAssemblyReference.cache

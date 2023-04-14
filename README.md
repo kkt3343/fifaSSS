@@ -4,9 +4,7 @@
 # 다운로드
 오른쪽의 Release에서 다운받으세요.
 
-[밑의 사진]
-
-<img src="pic03.png">
+[다운로드](https://github.com/kkt3343/fifaSSS/releases/download/Release/Release.zip)
 
 # fifaSSS란?
 

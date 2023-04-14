@@ -4,3 +4,10 @@
 # 다운로드
 오른쪽의 Release에서 다운받으세요.
 
+# fifaSSS란?
+
+<img src="pic01.png">
+
+# 실행사진
+
+<img src="pic02.png">
